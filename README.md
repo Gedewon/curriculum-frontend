@@ -3,8 +3,8 @@
 ![main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13](https://user-images.githubusercontent.com/56429354/167045645-7bdc35da-c4d9-4e7c-8334-6980df51d2ec.gif)
 
 > Frontend curriculum for Student's. 
-Please go through the material in this cronological order 
-it will help you to build up your knowlege.
+Please go through the material in this chronological order 
+it will help you to build up your knowledge.
 
 1. [Get started First Day](https://github.com/Gedewon/curriculum-frontend/blob/main/first-day-installations.md)
 2. [Git & GitHub & GitHub flow](https://github.com/Gedewon/curriculum-frontend/blob/main/git-github-basics.md)
