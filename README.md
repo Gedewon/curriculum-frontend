@@ -4,7 +4,7 @@
 
 > Frontend curriculum for Student's. 
 Please go through the material in this chronological order 
-it will help you to build up your knowledge.
+it will help you to build up your knowledge. project could be capstone portifolio or apple product page 
 
 1. [Get started First Day](https://github.com/Gedewon/curriculum-frontend/blob/main/first-day-installations.md)
 2. [Git & GitHub & GitHub flow](https://github.com/Gedewon/curriculum-frontend/blob/main/git-github-basics.md)
